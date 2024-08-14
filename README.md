@@ -1,2 +1,1 @@
-# OCP-Virt
-OpenShift Virtualization
+# OpenShift Virtualization
