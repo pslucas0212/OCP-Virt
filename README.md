@@ -12,6 +12,8 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 - [Certified Guest Operating Systems in Red Hat OpenStack Platform, Red Hat Virtualization and OpenShift Virtualization](https://access.redhat.com/articles/973163)
 - [OpenShift Virtualization: Why Bring Your Virtual Machines to Kubernetes?](https://cloud.redhat.com/blog/openshift-virtualization-why-bring-your-virtual-machines-to-kubernetes)  
 #### KubeVirt Information
+- [Kubevirt - Building a virtualization API for Kubernetes](https://github.com/kubevirt)
 - [Getting Started with KubeVirt Containers and Virtual Machines Together](https://cloud.redhat.com/blog/getting-started-with-kubevirt)
 - [Getting to Know Kubevirt](https://kubernetes.io/blog/2018/05/22/getting-to-know-kubevirt/)
 - [KubeVirt Intro – Using KubeVirt to Run VMs at Scale - Fabian Deutsch & Marcus Sorensen]() - YouTube based CNCF Presentation
+- [KubeVirt Adopters](https://github.com/kubevirt/kubevirt/blob/main/ADOPTERS.md)
