@@ -5,6 +5,7 @@
 FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
 
 ### OpenShift Virtualization
+- [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)
 - [Learn OpenShift Virtualization: 7 training resources to help you get started](https://www.redhat.com/en/blog/learn-openshift-virtualization)
 - [Configuring OpenShift Virtualization to run on Red Hat OpenShift Service on AWS](https://www.youtube.com/watch?v=wBtY3tvjtIU) - Short YouTube vide demo
 - [Virtualization with Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/virtualization)
