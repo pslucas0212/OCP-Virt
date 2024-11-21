@@ -20,3 +20,8 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 - [Getting to Know Kubevirt](https://kubernetes.io/blog/2018/05/22/getting-to-know-kubevirt/)
 - [KubeVirt Intro – Using KubeVirt to Run VMs at Scale - Fabian Deutsch & Marcus Sorensen]() - YouTube based CNCF Presentation
 - [KubeVirt Adopters](https://github.com/kubevirt/kubevirt/blob/main/ADOPTERS.md)
+
+## OpenShift Virtualization and SAP
+- [SAP on Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/sap-red-hat-openshift-virtualization)
+- [Deploying SAP Workloads with OpenShift Virtualization](https://access.redhat.com/articles/7048369)
+- [Does OpenShift Virtualization support SAP HANA?](https://access.redhat.com/solutions/6996642)
