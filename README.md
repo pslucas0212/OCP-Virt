@@ -13,6 +13,9 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 - [Certified Guest Operating Systems in Red Hat OpenStack Platform, Red Hat Virtualization and OpenShift Virtualization](https://access.redhat.com/articles/973163)
 - [OpenShift Virtualization: Why Bring Your Virtual Machines to Kubernetes?](https://cloud.redhat.com/blog/openshift-virtualization-why-bring-your-virtual-machines-to-kubernetes)
 - [How to import OVA files exported from VMware to OpenShift Virtualization?](https://access.redhat.com/solutions/7016396)
+
+### Storage
+- [Storage and data protection for OpenShift Virtualization](https://developers.redhat.com/articles/2024/10/10/storage-data-protection-openshift-virtualization?source=sso)
   
 #### KubeVirt Information
 - [Kubevirt - Building a virtualization API for Kubernetes](https://github.com/kubevirt)
